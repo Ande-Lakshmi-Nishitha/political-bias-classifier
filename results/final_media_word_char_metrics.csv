@@ -1,0 +1,2 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,weighted_f1
+word_plus_char_LinearSVC,0.472596585804133,0.370282293052091,0.3896235796695644,0.3630321369806258,0.433271015801385
